@@ -1,0 +1,14 @@
+C:\C# Level 3\101.ClassAndObject\bin\Debug\net10.0\101.ClassAndObject.exe
+C:\C# Level 3\101.ClassAndObject\bin\Debug\net10.0\101.ClassAndObject.deps.json
+C:\C# Level 3\101.ClassAndObject\bin\Debug\net10.0\101.ClassAndObject.runtimeconfig.json
+C:\C# Level 3\101.ClassAndObject\bin\Debug\net10.0\101.ClassAndObject.dll
+C:\C# Level 3\101.ClassAndObject\bin\Debug\net10.0\101.ClassAndObject.pdb
+C:\C# Level 3\101.ClassAndObject\obj\Debug\net10.0\101.ClassAndObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Level 3\101.ClassAndObject\obj\Debug\net10.0\101.ClassAndObject.AssemblyInfoInputs.cache
+C:\C# Level 3\101.ClassAndObject\obj\Debug\net10.0\101.ClassAndObject.AssemblyInfo.cs
+C:\C# Level 3\101.ClassAndObject\obj\Debug\net10.0\101.ClassAndObject.csproj.CoreCompileInputs.cache
+C:\C# Level 3\101.ClassAndObject\obj\Debug\net10.0\101.ClassAndObject.dll
+C:\C# Level 3\101.ClassAndObject\obj\Debug\net10.0\refint\101.ClassAndObject.dll
+C:\C# Level 3\101.ClassAndObject\obj\Debug\net10.0\101.ClassAndObject.pdb
+C:\C# Level 3\101.ClassAndObject\obj\Debug\net10.0\101.ClassAndObject.genruntimeconfig.cache
+C:\C# Level 3\101.ClassAndObject\obj\Debug\net10.0\ref\101.ClassAndObject.dll
