@@ -1,0 +1,15 @@
+D:\C# 300\c# level 3 &4\151.studentManagement\obj\Debug\net10.0\151.studentManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 300\c# level 3 &4\151.studentManagement\obj\Debug\net10.0\151.studentManagement.AssemblyInfoInputs.cache
+D:\C# 300\c# level 3 &4\151.studentManagement\obj\Debug\net10.0\151.studentManagement.AssemblyInfo.cs
+D:\C# 300\c# level 3 &4\151.studentManagement\obj\Debug\net10.0\151.studentManagement.csproj.CoreCompileInputs.cache
+D:\C# 300\c# level 3 &4\151.studentManagement\obj\Debug\net10.0\151.studentManagement.sourcelink.json
+D:\C# 300\c# level 3 &4\151.studentManagement\bin\Debug\net10.0\151.studentManagement.exe
+D:\C# 300\c# level 3 &4\151.studentManagement\bin\Debug\net10.0\151.studentManagement.deps.json
+D:\C# 300\c# level 3 &4\151.studentManagement\bin\Debug\net10.0\151.studentManagement.runtimeconfig.json
+D:\C# 300\c# level 3 &4\151.studentManagement\bin\Debug\net10.0\151.studentManagement.dll
+D:\C# 300\c# level 3 &4\151.studentManagement\bin\Debug\net10.0\151.studentManagement.pdb
+D:\C# 300\c# level 3 &4\151.studentManagement\obj\Debug\net10.0\151.studentManagement.dll
+D:\C# 300\c# level 3 &4\151.studentManagement\obj\Debug\net10.0\refint\151.studentManagement.dll
+D:\C# 300\c# level 3 &4\151.studentManagement\obj\Debug\net10.0\151.studentManagement.pdb
+D:\C# 300\c# level 3 &4\151.studentManagement\obj\Debug\net10.0\151.studentManagement.genruntimeconfig.cache
+D:\C# 300\c# level 3 &4\151.studentManagement\obj\Debug\net10.0\ref\151.studentManagement.dll
